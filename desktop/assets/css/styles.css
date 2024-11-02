@@ -177,6 +177,10 @@ footer h1 {
     cursor: pointer;
 }
 
+.type:hover{
+    box-shadow: 4px 4px 10px grey;
+}
+
 .type:hover .sotto{
     padding: 3%;
     padding-top: 3.8%;
